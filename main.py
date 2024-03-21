@@ -1,1 +1,4 @@
 print('murod')
+
+
+print('salom')
